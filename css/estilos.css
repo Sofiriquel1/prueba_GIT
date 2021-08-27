@@ -1,0 +1,9 @@
+/* Mis estilos */
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*para que no se achique el texto o las imagenes
+    se adaptan a la pagina y se van hacia abajo*/
+    margin-left: 8%;
+}
